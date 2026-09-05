@@ -63,13 +63,14 @@ If you use the figures, graphs, or code provided in this repository, please use 
 
 ### Suggested BibTeX:
 ```bibtex
-@misc{medija2026bibliometric,
-  author = {Medija, John Clarenz},
+@misc{medija_vargas_2026,
+  author = {Medija, John Clarenz and Vargas, Mikhaila},
   title = {Bibliometric Analysis of Research Findings},
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished \(= {\url{https://github.com}} \)}
+  howpublished = {\url{https://github.com}}
+}
 ```
 
 ---
